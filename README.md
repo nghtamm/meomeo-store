@@ -11,8 +11,10 @@ Phần mềm quản lý cửa hàng mèo - MeoMeo Store với các tính năng c
 - Quản lý thông tin nhân viên của cửa hàng
 - Quản lý thông tin mèo
 - Quản lý thông tin vật dụng cho mèo (thức ăn, đồ chơi,...)
+
 **Lưu ý**
 - Dữ liệu được mã hóa nhị phân và lưu trữ tại 'C:/KittyCat/'
+
 **Nhóm tác giả**
 - [Nguyễn Hoàng Tâm](https://github.com/nghtamm2003)
 - [Nguyễn Huy Phước](https://github.com/DurkYerunz)
