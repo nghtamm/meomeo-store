@@ -21,10 +21,10 @@ Phần mềm quản lý cửa hàng mèo - MeoMeo Store với các tính năng c
 - [Lương Ngọc Tuấn](https://github.com/TuanChill)
 	
 ## Techstack
-Sử dụng ngôn ngữ lập trình C, giao diện terminal-based
+- Ngôn ngữ lập trình C, giao diện terminal-based
 	
 ## Hướng dẫn sử dụng
-Trước tiên, ta compile file ***main.cpp*** thành file executable (*.exe*)
+Trước tiên, compile file ***main.cpp*** thành file executable (*.exe*)
 ```
 gcc main.cpp -o app.exe
 ```
