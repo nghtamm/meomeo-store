@@ -16,7 +16,7 @@ Phần mềm quản lý cửa hàng mèo - MeoMeo Store với các tính năng c
 - Dữ liệu được mã hóa nhị phân và lưu trữ tại *'C:/KittyCat/'*
 
 **Nhóm tác giả**
-- [Nguyễn Hoàng Tâm](https://github.com/nghtamm2003)
+- [Nguyễn Hoàng Tâm](https://github.com/nghtamm)
 - [Nguyễn Huy Phước](https://github.com/DurkYerunz)
 - [Lương Ngọc Tuấn](https://github.com/TuanChill)
 	
